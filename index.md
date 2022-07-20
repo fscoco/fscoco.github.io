@@ -2,7 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+layout: default
+title: FS-COCO
 ---
 
 <a href="http://sketchx.ai/"><img src="/assets/sketchx-logo.png" style="width:70%; max-width: 300px; border:None;" class='img-fluid img-thumbnail'></a><br/><br/>
@@ -124,9 +125,7 @@ Downloading this dataset means you agree to the following License / Terms of Use
 
 ### **Download this dataset**
 
-Please send an email to mail@pinakinathc.me for the unZip password.
-
-[**Download from Google Drive**](https://drive.google.com/file/d/1f4dEYbWL05Jwlr8KKdXXJioKZWcvaTJG/view?usp=sharing)
+[**Download from Google Drive**](https://drive.google.com/file/d/1sjWoONedi9PBK4aQFNJUEL7diFJ7FyIN/view?usp=sharing)
 
 ### **Acknowledgements**
 This dataset would not be possible without the support of the following wonderful people:
