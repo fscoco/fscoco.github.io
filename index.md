@@ -97,10 +97,10 @@ Downloading this dataset means you agree to the following License / Terms of Use
 
 ### **How to cite this dataset**
 ```
-@article{fscoco,
+@inproceedings{fscoco,
     title={FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context.}
     author={Chowdhury, Pinaki Nath and Sain, Aneeshan and Bhunia, Ayan Kumar and Xiang, Tao and Gryaditskaya, Yulia and Song, Yi-Zhe},
-    journal={arXiv preprint arXiv:2203.02113},
+    journal={ECCV},
     year={2022}
 }
 ```
