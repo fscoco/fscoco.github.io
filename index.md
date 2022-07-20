@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
 <a href="http://sketchx.ai/"><img src="https://pinakinathc.github.io/assets/images/organizations/sketchx-logo.png" style="width:70%; max-width: 300px; border:None;" class='img-fluid img-thumbnail'></a><br/><br/>
 
 
@@ -52,6 +59,16 @@ For our dataset, we compute two estimates of the category distribution across ou
         <td>866/6789</td>
     </tr>
 </table>
+<style>
+table, th, td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 15px;
+}
+tr:nth-child(odd) {
+  background-color: #f2f2f2;
+}
+</style>
 
 ### **Dataset Sample and Comparison with existing dataset.**
 ![Sample Comparison FSCOCO dataset](https://pinakinathc.github.io/datasets/images/fscoco-sample-comparison.jpg)
@@ -100,7 +117,7 @@ Downloading this dataset means you agree to the following License / Terms of Use
 @inproceedings{fscoco,
     title={FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context.}
     author={Chowdhury, Pinaki Nath and Sain, Aneeshan and Bhunia, Ayan Kumar and Xiang, Tao and Gryaditskaya, Yulia and Song, Yi-Zhe},
-    journal={ECCV},
+    booktitle={ECCV},
     year={2022}
 }
 ```
@@ -115,3 +132,4 @@ Please send an email to mail@pinakinathc.me for the unZip password.
 This dataset would not be possible without the support of the following wonderful people:
 
 **[Anran Qi](https://anranqi.github.io/), [Yue Zhong](http://sketchx.ai/people), [Lan Yang](http://sketchx.ai/people), [Dongliang Chang](https://scholar.google.com/citations?user=tIf50PgAAAAJ&hl=en), [Ling Luo](https://rowl1ng.com/), [Ayan Das](https://scholar.google.com/citations?user=x-WI_EgAAAAJ&hl=en), [Zhiyu Qu](http://sketchx.ai/people), [Yixiao Zheng](http://sketchx.ai/people), [Ruolin Yang](http://sketchx.ai/people), [Ranit](https://github.com/MaestroRon-001)**
+
