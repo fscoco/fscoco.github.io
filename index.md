@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<a href="http://sketchx.ai/"><img src="https://pinakinathc.github.io/assets/images/organizations/sketchx-logo.png" style="width:70%; max-width: 300px; border:None;" class='img-fluid img-thumbnail'></a><br/><br/>
+<a href="http://sketchx.ai/"><img src="/assets/sketchx-logo.png" style="width:70%; max-width: 300px; border:None;" class='img-fluid img-thumbnail'></a><br/><br/>
 
 
 ## **FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context.**
@@ -71,7 +71,7 @@ tr:nth-child(odd) {
 </style>
 
 ### **Dataset Sample and Comparison with existing dataset.**
-![Sample Comparison FSCOCO dataset](https://pinakinathc.github.io/datasets/images/fscoco-sample-comparison.jpg)
+![Sample Comparison FSCOCO dataset](/assets/fscoco-sample-comparison.jpg)
 
 ## **Code**
 
