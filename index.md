@@ -125,7 +125,8 @@ Downloading this dataset means you agree to the following License / Terms of Use
 
 ### **Download this dataset**
 
-[**Download from Google Drive**](https://drive.google.com/file/d/1sjWoONedi9PBK4aQFNJUEL7diFJ7FyIN/view?usp=sharing)
+[**[Official CVSSP Storage]**](http://cvssp.org/data/fscoco/fscoco.tar.gz)
+[**[Download from Google Drive]**](https://drive.google.com/file/d/1sjWoONedi9PBK4aQFNJUEL7diFJ7FyIN/view?usp=sharing)
 
 ### **Acknowledgements**
 This dataset would not be possible without the support of the following wonderful people:
