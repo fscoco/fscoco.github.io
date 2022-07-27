@@ -22,6 +22,8 @@ University of Surrey, United Kingdom
 
 **Published at ECCV 2022**
 
+[Paper](http://www.pinakinathc.me/assets/papers/fscoco.pdf) / [Github](https://github.com/pinakinathc/fscoco)
+
 ### **Abstract**
 We advance sketch research to scenes with the first dataset of freehand scene sketches, FS-COCO. With practical applications in mind, we collect sketches that convey well scene content but can be sketched within a few minutes by a person with any sketching skills. Our dataset comprises 10,000 freehand scene vector sketches with per point space-time information by 100 non-expert individuals, offering both object- and scene-level abstraction. Each sketch is augmented with its text description. Using our dataset, we study for the first time the problem of fine-grained image retrieval from freehand scene sketches and sketch captions. We draw insights on: (i) Scene salience encoded in sketches using the strokes temporal order; (ii) Performance comparison of image retrieval from a scene sketch and an image caption; (iii) Complementarity of information in sketches and image captions, as well as the potential benefit of combining the two modalities. In addition, we extend a popular vector sketch LSTM-based encoder to handle sketches with larger complexity than was supported by previous work. Namely, we propose a hierarchical sketch decoder, which we leverage at a sketch-specific “pre-text” task. Our dataset enables for the first time research on freehand scene sketch understanding and its practical applications
 
@@ -125,7 +127,8 @@ Downloading this dataset means you agree to the following License / Terms of Use
 
 ### **Download this dataset**
 
-[**Download from Google Drive**](https://drive.google.com/file/d/1sjWoONedi9PBK4aQFNJUEL7diFJ7FyIN/view?usp=sharing)
+[**[Official CVSSP Storage]**](http://cvssp.org/data/fscoco/fscoco.tar.gz)
+[**[Download from Google Drive]**](https://drive.google.com/file/d/1sjWoONedi9PBK4aQFNJUEL7diFJ7FyIN/view?usp=sharing)
 
 ### **Acknowledgements**
 This dataset would not be possible without the support of the following wonderful people:
