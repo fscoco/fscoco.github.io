@@ -132,3 +132,13 @@ This dataset would not be possible without the support of the following wonderfu
 
 **[Anran Qi](https://anranqi.github.io/), [Yue Zhong](http://sketchx.ai/people), [Lan Yang](http://sketchx.ai/people), [Dongliang Chang](https://scholar.google.com/citations?user=tIf50PgAAAAJ&hl=en), [Ling Luo](https://rowl1ng.com/), [Ayan Das](https://scholar.google.com/citations?user=x-WI_EgAAAAJ&hl=en), [Zhiyu Qu](http://sketchx.ai/people), [Yixiao Zheng](http://sketchx.ai/people), [Ruolin Yang](http://sketchx.ai/people), [Ranit](https://github.com/MaestroRon-001)**
 
+
+### **Social Media**
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context<br><br>Dataset of 10,000 freehand scene vector sketches drawn by 100 non-expert individuals within minutes, offering both object and scene-level abstraction<a href="https://t.co/fzmXrftsqv">https://t.co/fzmXrftsqv</a><a href="https://t.co/C1fTiWINca">https://t.co/C1fTiWINca</a> <a href="https://t.co/aWNh7ua8YK">pic.twitter.com/aWNh7ua8YK</a></p>&mdash; hardmaru (@hardmaru) <a href="https://twitter.com/hardmaru/status/1509370360428662794?ref_src=twsrc%5Etfw">March 31, 2022</a></blockquote>
+
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context. (arXiv:2203.02113v1 [<a href="https://t.co/1uAOVrWCaz">https://t.co/1uAOVrWCaz</a>]) <a href="https://t.co/UO2B1xOzSi">https://t.co/UO2B1xOzSi</a></p>&mdash; Tim Leiner (@MLandDL_papers) <a href="https://twitter.com/MLandDL_papers/status/1500743888679710723?ref_src=twsrc%5Etfw">March 7, 2022</a></blockquote>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="tl" dir="ltr">FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context. Pinaki Nath Chowdhury, Aneeshan Sain, Yulia Gryaditskaya, Ayan Kumar Bhunia, Tao Xiang, and Yi-Zhe Song <a href="https://t.co/YvCWuUtK0M">https://t.co/YvCWuUtK0M</a></p>&mdash; cs.CV Papers (@arxiv_cs_cv_pr) <a href="https://twitter.com/arxiv_cs_cv_pr/status/1500689283124187136?ref_src=twsrc%5Etfw">March 7, 2022</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
