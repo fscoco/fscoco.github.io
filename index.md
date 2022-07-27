@@ -138,6 +138,9 @@ This dataset would not be possible without the support of the following wonderfu
 
 ### **Social Media**
 
+
+<iframe id="reddit-embed" src="https://www.redditmedia.com/r/MachineLearning/comments/tsqm18/r_fscoco_towards_understanding_of_freehand/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" scrolling="no" width="640" height="146"></iframe><br>
+
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context<br><br>Dataset of 10,000 freehand scene vector sketches drawn by 100 non-expert individuals within minutes, offering both object and scene-level abstraction<a href="https://t.co/fzmXrftsqv">https://t.co/fzmXrftsqv</a><a href="https://t.co/C1fTiWINca">https://t.co/C1fTiWINca</a> <a href="https://t.co/aWNh7ua8YK">pic.twitter.com/aWNh7ua8YK</a></p>&mdash; hardmaru (@hardmaru) <a href="https://twitter.com/hardmaru/status/1509370360428662794?ref_src=twsrc%5Etfw">March 31, 2022</a></blockquote>
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">FS-COCO: Towards Understanding of Freehand Sketches of Common Objects in Context. (arXiv:2203.02113v1 [<a href="https://t.co/1uAOVrWCaz">https://t.co/1uAOVrWCaz</a>]) <a href="https://t.co/UO2B1xOzSi">https://t.co/UO2B1xOzSi</a></p>&mdash; Tim Leiner (@MLandDL_papers) <a href="https://twitter.com/MLandDL_papers/status/1500743888679710723?ref_src=twsrc%5Etfw">March 7, 2022</a></blockquote>
